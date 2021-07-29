@@ -1,1 +1,1 @@
-worker: python app.py
+worker: Major Project 2.py
